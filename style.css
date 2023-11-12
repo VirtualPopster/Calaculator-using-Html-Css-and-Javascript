@@ -1,0 +1,29 @@
+body{
+    background-color: #8BC6EC;
+    background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+    text-align: center;
+ display: flex;
+ justify-content: center;
+ font-family: 'Poppins', sans-serif;
+}
+.main{
+    background-color: white;
+    height: 600px;
+    width: 800px;
+    border-radius: 34px;
+}
+.operation-button{
+    padding: 100px;
+}
+button{
+    display: inline;
+    height: 67px;
+    width: 97px;
+color: black;
+margin: 35px;
+font-weight: bolder;
+font-size: larger;
+    
+    
+    
+}
